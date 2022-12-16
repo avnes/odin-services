@@ -4,4 +4,4 @@
 
 github_owner = "avnes"
 
-cluster_name = "valyria"
+cluster_name = "odin"
